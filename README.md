@@ -1,8 +1,7 @@
 Codding for life.
 
  # 💫 About Me:
- Hi I am James! <br>Web developer and python programmer sharing about my journey and learning in technology.<br> Studing computer scoence at Thaaka University.<br> Currently learning about django framework and web scripping.<br>Open to web development remote jobs.
-
+ Greetings! My name is James <br>a passionate web developer and Python programmer. I am currently pursuing a degree in Computer Science at Tharaka University, where I am deepening my knowledge of technology<br>  In my journey, I am continuously expanding my skill set, particularly with the Next.js framework and Selenium, as I seek to enhance my capabilities in web development and automation.<br> Through this platform, I share insights into my learning process and the evolving landscape of technology, reflecting on the challenges and successes that shape my growth in the field.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-kariuki-/) 
