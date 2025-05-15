@@ -1,28 +1,70 @@
-Codding for life.
+# 💻 **James Kariuki** | Full-Stack Developer
 
- # 💫 About Me:
- Greetings! My name is James <br>a passionate web developer and Python programmer. I am currently pursuing a degree in Computer Science at Tharaka University, where I am deepening my knowledge of technology<br>  In my journey, I am continuously expanding my skill set, particularly with the Next.js framework and Selenium, as I seek to enhance my capabilities in web development and automation.<br> Through this platform, I share insights into my learning process and the evolving landscape of technology, reflecting on the challenges and successes that shape my growth in the field.<br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/james-kariuki-/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) !
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jameskariuki8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jameskariuki8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskariuki8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jameskariuki8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jameskariuki8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=4F8CC9&center=true&vCenter=true&width=600&lines=Python+Developer;Laravel+Specialist;Web+Automation+Expert;SEO+Optimized+Solutions" alt="Typing Animation" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jameskariuki8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 **About Me**
+I'm **James Kariuki**, a **Computer Science graduate** from Tharaka University specializing in full-stack development and Software engineering. I bridge technical execution with strategic digital visibility.
+
+🔹 **Core Stack:** Python (Django), PHP (Laravel), JavaScript (Next.js)  
+🔹 **Real-Time Systems:** WebSocket integration with Pusher  
+🔹 **Digital Growth:** Technical SEO implementation & performance optimization  
+🔹 **Portfolio:** [james-kariuki.xyz](https://james-kariuki.xyz)  
+
+---
+
+## 🛠 **Technical Arsenal**
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### **Real-Time & APIs**
+![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Web Optimization**
+![SEO](https://img.shields.io/badge/SEO-0D8BBA?style=for-the-badge&logo=google&logoColor=white)
+![PageSpeed](https://img.shields.io/badge/PageSpeed-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### **Testing & Automation**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+## 🌐 **Connect With Me**
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://james-kariuki.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-kariuki-/)
+
+---
+
+## 📊 **GitHub Analytics**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jameskariuki8&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jameskariuki8&theme=github-dark&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
+
+---
+
+## ✨ **Featured Projects**
+### 1. [Laravel E-Commerce with Real-Time Updates](https://github.com/jameskariuki8/example)
+   - Integrated Pusher for live order tracking
+   - SEO-optimized product pages
+
+### 2. [Python SEO Analyzer](https://github.com/jameskariuki8/example)
+   - Automated technical SEO audits
+   - Django backend with BeautifulSoup
+
+---
+
+> *"The web is what you make of it. I choose to build fast, visible, and interactive experiences."*  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jameskariuki8&label=Profile+Views&color=4F8CC9&style=flat" alt="Profile Views" />
+</div>
