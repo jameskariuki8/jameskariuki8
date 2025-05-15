@@ -53,12 +53,12 @@ I'm **James Kariuki**, a **Computer Science graduate** from Tharaka University s
 ---
 
 ## ✨ **Current Projects**
-### 1. [Laravel School portal]
+### 1. Laravel School portal
    - Role based Authentication
    - Getting results in pdf form
    - student enrollment and unit regestration
 
-### 2. [Python SEO Analyzer]
+### 2. Python SEO Analyzer
    - Automated technical SEO audits
    - Django backend with BeautifulSoup
 
