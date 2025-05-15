@@ -52,14 +52,20 @@ I'm **James Kariuki**, a **Computer Science graduate** from Tharaka University s
 
 ---
 
-## ✨ **Featured Projects**
-### 1. [Laravel E-Commerce with Real-Time Updates](https://github.com/jameskariuki8/example)
-   - Integrated Pusher for live order tracking
-   - SEO-optimized product pages
+## ✨ **Current Projects**
+### 1. [Laravel School portal]
+   - Role based Authentication
+   - Getting results in pdf form
+   - student enrollment and unit regestration
 
-### 2. [Python SEO Analyzer](https://github.com/jameskariuki8/example)
+### 2. [Python SEO Analyzer]
    - Automated technical SEO audits
    - Django backend with BeautifulSoup
+
+### 2. [Tekeleza hub website](https://tekelezahub.org)
+   - Performed SEO 
+   - Planet rotation design
+   - Hosting and domain name integration
 
 ---
 
